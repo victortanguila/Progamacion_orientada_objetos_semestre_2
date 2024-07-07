@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f16f14e5-6dca-4d2b-bfa7-d1334c370054" name="Changes" comment="sobre  tipos de datos">
+      <change afterPath="$PROJECT_DIR$/TRABAJO_POO_SEMANA_6/Definición de Clase, Definición_Objeto,Herencia,Encapsulación,Polimorfismo.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2iU5WQyRh3cHfJnGw98sHEIIB9g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Definición de Clase, Definición_Objeto,Herencia,Encapsulación,Polimorfismo.executor": "Run",
+    "Python.Ejemplos_de_tecnicas_de_programacion.executor": "Run",
+    "Python.Ejemplos_del_Mundo_Real.executor": "Run",
+    "Python.Tipos_de_datos.executor": "Run",
+    "Python.Tiposdedatosidentificadores.executor": "Run",
+    "Python.programacion_orientada_a_objetos.executor": "Run",
+    "Python.programacion_tradicional.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/VICTOR/POO",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="programacion_tradicional" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="POO" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/el_promedio_semanal_del_clima" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/el_promedio_semanal_del_clima/programacion_tradicional.py" />
+      <option name="PARAMETERS" value="$FileDir$" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
+        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f16f14e5-6dca-4d2b-bfa7-d1334c370054" name="Changes" comment="" />
+      <created>1719532346728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719532346728</updated>
+      <workItem from="1719532347846" duration="308000" />
+      <workItem from="1719793760995" duration="2033000" />
+      <workItem from="1719964697621" duration="1105000" />
+      <workItem from="1720049270225" duration="1319000" />
+      <workItem from="1720050630204" duration="881000" />
+      <workItem from="1720051541141" duration="983000" />
+      <workItem from="1720052553276" duration="1068000" />
+      <workItem from="1720056613328" duration="158000" />
+      <workItem from="1720135937125" duration="597000" />
+      <workItem from="1720390589295" duration="2124000" />
+    </task>
+    <task id="LOCAL-00001" summary="trabajosemana5">
+      <option name="closed" value="true" />
+      <created>1719794160911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719794160911</updated>
+    </task>
+    <task id="LOCAL-00002" summary="trabajosemana5">
+      <option name="closed" value="true" />
+      <created>1719794542437</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719794542437</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ejemplos para cada una de las técnicas de programación">
+      <option name="closed" value="true" />
+      <created>1720049922563</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720049922563</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ejemplos para cada una de las técnicas de programación">
+      <option name="closed" value="true" />
+      <created>1720050864613</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720050864613</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ejemplos para cada una de las técnicas de programación">
+      <option name="closed" value="true" />
+      <created>1720050965408</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720050965408</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Comparación de Programación Tradicional y POO">
+      <option name="closed" value="true" />
+      <created>1720051835786</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720051835786</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Comparación de Programación Tradicional y POO">
+      <option name="closed" value="true" />
+      <created>1720051962954</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720051962954</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Comparación de Programación Tradicional y POO">
+      <option name="closed" value="true" />
+      <created>1720051994539</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720051994539</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1720052158151</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1720052158151</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Comparación de Programación Tradicional y POO">
+      <option name="closed" value="true" />
+      <created>1720052415470</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1720052415470</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Comparación de Programación Tradicional y POO">
+      <option name="closed" value="true" />
+      <created>1720052628554</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1720052628554</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Ejemplos del Mundo Real y Características">
+      <option name="closed" value="true" />
+      <created>1720052866496</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1720052866496</updated>
+    </task>
+    <task id="LOCAL-00013" summary="sobre  tipos de datos">
+      <option name="closed" value="true" />
+      <created>1720053218149</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1720053218149</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="trabajo_semana5" />
+    <MESSAGE value="trabajosemana5" />
+    <MESSAGE value="ejemplos para cada una de las técnicas de programación" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="Comparación de Programación Tradicional y POO" />
+    <MESSAGE value="Ejemplos del Mundo Real y Características" />
+    <MESSAGE value="sobre  tipos de datos" />
+    <option name="LAST_COMMIT_MESSAGE" value="sobre  tipos de datos" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/POO$programacion_orientada_a_objetos.coverage" NAME="programacion_orientada_a_objetos Coverage Results" MODIFIED="1720052108591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/el_promedio_semanal_del_clima_semana3" />
+    <SUITE FILE_PATH="coverage/POO$Tiposdedatosidentificadores.coverage" NAME="Tiposdedatosidentificadores Coverage Results" MODIFIED="1720049776630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tiposdedatos,IdentificadoresSenana5" />
+    <SUITE FILE_PATH="coverage/POO$Tipos_de_datos.coverage" NAME="Tipos_de_datos Coverage Results" MODIFIED="1720053133150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/un_pequeño_progrma_semana_5" />
+    <SUITE FILE_PATH="coverage/POO$Ejemplos_de_tecnicas_de_programacion.coverage" NAME="Ejemplos_de_tecnicas_de_programacion Coverage Results" MODIFIED="1720051581907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tecnicas_de_programacion" />
+    <SUITE FILE_PATH="coverage/POO$programacion_tradicional.coverage" NAME="programacion_tradicional Coverage Results" MODIFIED="1720051574070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/el_promedio_semanal_del_clima" />
+    <SUITE FILE_PATH="coverage/POO$Definición_de_Clase__Definición_Objeto_Herencia_Encapsulación_Polimorfismo.coverage" NAME="Definición de Clase, Definición_Objeto,Herencia,Encapsulación,Polimorfismo Coverage Results" MODIFIED="1720392429478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TRABAJO_POO_SEMANA_6" />
+    <SUITE FILE_PATH="coverage/POO$Ejemplos_del_Mundo_Real.coverage" NAME="Ejemplos_del_Mundo_Real Coverage Results" MODIFIED="1720052817690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/situacion_del_mundo_Real_semana_4" />
+  </component>
+</project>
