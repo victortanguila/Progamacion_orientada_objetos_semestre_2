@@ -1,7 +1,7 @@
 # Definición de Objeto de Herencia, Encapsulación y Polimorfismo
 # Clase Base: Vehiculo
 class Vehiculo:
-    def _init_(self, marca, modelo, año):
+    def __init__(self, marca, modelo, año):
         # Atributos encapsulados
         self.__marca = marca
         self.__modelo = modelo
@@ -9,7 +9,7 @@ class Vehiculo:
         self.__kilometraje = 0
 
     def descripcion(self):
-        return f"Vehículo {self._marca} {self.modelo} del año {self._año}"
+        return f"Vehículo {self.__marca} {self.__modelo} del año {self.__año}"
 
     def avanzar(self, km):
         self.__kilometraje += km
@@ -21,13 +21,13 @@ class Vehiculo:
 
 # Clase Derivada: Coche (hereda de Vehiculo)
 class Coche(Vehiculo):
-    def _init_(self, marca, modelo, año, puertas):
-        super()._init_(marca, modelo, año)
+    def __init__(self, marca, modelo, año, puertas):
+        super().__init__(marca, modelo, año)
         self.__puertas = puertas
 
     def descripcion(self):
         # Polimorfismo: método sobrescrito
-        return f"Coche {self.Vehiculomarca} {self._Vehiculomodelo} del año {self._Vehiculoaño} con {self._puertas} puertas"
+        return f"Coche {self._Vehiculo__marca} {self._Vehiculo__modelo} del año {self._Vehiculo__año} con {self.__puertas} puertas"
 
     def abrir_puertas(self):
         print("Abriendo puertas...")
@@ -35,13 +35,13 @@ class Coche(Vehiculo):
 
 # Clase Derivada: Moto (hereda de Vehiculo)
 class Moto(Vehiculo):
-    def _init_(self, marca, modelo, año, cilindrada):
-        super()._init_(marca, modelo, año)
+    def __init__(self, marca, modelo, año, cilindrada):
+        super().__init__(marca, modelo, año)
         self.__cilindrada = cilindrada
 
     def descripcion(self):
         # Polimorfismo: método sobrescrito
-        return f"Moto {self.Vehiculomarca} {self._Vehiculomodelo} del año {self._Vehiculoaño} con {self._cilindrada} cc"
+        return f"Moto {self._Vehiculo__marca} {self._Vehiculo__modelo} del año {self._Vehiculo__año} con {self.__cilindrada} cc"
 
     def acelerar(self):
         print("Acelerando...")
