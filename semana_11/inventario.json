@@ -1,0 +1,20 @@
+[
+    {
+        "id_producto": "001",
+        "nombre": "camiseta",
+        "cantidad": 40,
+        "precio": 23.5
+    },
+    {
+        "id_producto": "002",
+        "nombre": "gorra",
+        "cantidad": 20,
+        "precio": 6.5
+    },
+    {
+        "id_producto": "003",
+        "nombre": "manzana",
+        "cantidad": 30,
+        "precio": 0.25
+    }
+]
